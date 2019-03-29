@@ -1,4 +1,7 @@
-
+body {
+	padding: 0px;
+	margin: 0px; //убираю отступы
+}
 header {
 	background: url(../images/bg.jpg) no-repeat center top / cover;
 	height: 668px;
