@@ -14,9 +14,16 @@ h1 {
 .container {
 	width: 1050px;
 	margin: 0 auto;
-	border: 5px solid red;
 }
 
 .logo {
 	margin-top: 40px; //отступы сверху у логотипа
 }
+
+.slogan {
+	margin-bottom: 30px;
+	color: #fff;
+	font-size: 20px;
+	font-family: Angelus Medieva, Helvetica, serif; //добавление слогана
+}
+
