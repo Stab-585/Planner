@@ -23,7 +23,7 @@ h1 {
 }
 
 .slogan {
-	color: #1FAF6E;
+	color: #00B880;
 	font-size: 20px;
 	font-family: Angelus Medieva, Helvetica, serif; //добавление слогана
 }
@@ -54,5 +54,21 @@ nav {
 
 .title {
 	text-align: center;
-	margin-top: 100px;
+	margin-top: 120px;
+}
+
+.button {
+	display: block;
+	background: #00B880;
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+	margin-left: 425px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 20px;
 }
