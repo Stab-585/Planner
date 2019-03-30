@@ -2,10 +2,12 @@ body {
 	padding: 0px;
 	margin: 0px; //убираю отступы
 }
+
 header {
 	background: url(../images/bg.jpg) no-repeat center top / cover;
 	height: 668px;
 }
+
 h1 {
 	font-family: Lobster, Helvetica, serif;
 	color: white;
@@ -22,20 +24,13 @@ h1 {
 	float: left;
 }
 
-.slogan {
-	color: #00B880;
-	font-family: Angelus Medieva, Helvetica, serif; //добавление слогана
-	text-align: center;
-	margin-top: 80px;
-}
-
 nav {
 	float: right;
 }
 
 .menu {
 	padding: 0px;
-	margin: -90px;
+	margin-top: -180px;
 	display: block;
 }
 
@@ -51,6 +46,13 @@ nav {
 	color: #fff;
 	font-family: Angelus Medieva, Helvetica, serif;
 	font-size: 20px;
+}
+
+.slogan {
+	color: #00B880;
+	font-family: Angelus Medieva, Helvetica, serif; //добавление слогана
+	text-align: center;
+	margin-top: 50px;
 }
 
 .title {
