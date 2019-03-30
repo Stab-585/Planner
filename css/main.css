@@ -18,12 +18,35 @@ h1 {
 
 .logo {
 	margin-top: 40px; //отступы сверху у логотипа
+	float: left;
 }
 
 .slogan {
-	margin-bottom: 30px;
 	color: #fff;
 	font-size: 20px;
 	font-family: Angelus Medieva, Helvetica, serif; //добавление слогана
 }
 
+nav {
+	float: right;
+}
+
+.menu {
+	padding: 0px;
+	margin: -90px;
+	display: block;
+}
+
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 45px;
+
+}
+
+.menu a {
+	text-decoration: none;
+	color: #fff;
+	font-family: Angelus Medieva, Helvetica, serif;
+	font-size: 20px;
+}
