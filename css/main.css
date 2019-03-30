@@ -30,8 +30,9 @@ nav {
 
 .menu {
 	padding: 0px;
-	margin-top: -180px;
+	margin-top: -220px;
 	display: block;
+	padding-bottom: 230px;
 }
 
 .menu li {
@@ -52,12 +53,14 @@ nav {
 	color: #00B880;
 	font-family: Angelus Medieva, Helvetica, serif; //добавление слогана
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 100px;
+	margin-left: 370px;
+	font-size: 30px; 
 }
 
 .title {
 	text-align: center;
-	margin-top: 150px;
+	font-size: 80px;
 }
 
 .button {
