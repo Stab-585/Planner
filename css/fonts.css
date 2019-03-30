@@ -5,3 +5,11 @@
 	font-style: normal;
 	font-weight: normal;
 }
+
+@font-face {
+	font-family: Angelus Medieva;
+	src: url("../fonts/Angelus Medieva/Angelus Medieva.ttf") format("truetype");
+	src: url("../fonts/Angelus Medieva/Angelus Medieva.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
