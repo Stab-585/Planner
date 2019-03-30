@@ -10,3 +10,13 @@ h1 {
 	font-family: Lobster, Helvetica, serif;
 	color: white;
 }
+
+.container {
+	width: 1050px;
+	margin: 0 auto;
+	border: 5px solid red;
+}
+
+.logo {
+	margin-top: 40px; //отступы сверху у логотипа
+}
