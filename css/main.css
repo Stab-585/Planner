@@ -9,6 +9,7 @@ header {
 h1 {
 	font-family: Lobster, Helvetica, serif;
 	color: white;
+	font-size: 72px;
 }
 
 .container {
@@ -22,7 +23,7 @@ h1 {
 }
 
 .slogan {
-	color: #fff;
+	color: #1FAF6E;
 	font-size: 20px;
 	font-family: Angelus Medieva, Helvetica, serif; //добавление слогана
 }
