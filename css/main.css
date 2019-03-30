@@ -24,8 +24,9 @@ h1 {
 
 .slogan {
 	color: #00B880;
-	font-size: 20px;
 	font-family: Angelus Medieva, Helvetica, serif; //добавление слогана
+	text-align: center;
+	margin-top: 80px;
 }
 
 nav {
@@ -54,7 +55,7 @@ nav {
 
 .title {
 	text-align: center;
-	margin-top: 120px;
+	margin-top: 150px;
 }
 
 .button {
