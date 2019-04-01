@@ -28,6 +28,10 @@ nav {
 	float: right;
 }
 
+nav a {
+	transition: color, 0.3s;
+}
+
 .menu {
 	padding: 0px;
 	margin-top: -220px;
@@ -77,4 +81,20 @@ nav {
 	font-size: 30px;
 	font-weight: bold;
 	padding-top: 20px;
+}
+
+.home:hover {
+	color: #00805A;
+}
+
+.dairy:hover {
+	color: #00805A;
+}
+
+.planner:hover {
+	color: #00805A;
+}
+
+.main:hover {
+	color: #00805A;
 }
