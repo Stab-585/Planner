@@ -98,3 +98,7 @@ nav a {
 .main:hover {
 	color: #00805A;
 }
+
+.button:hover {
+    animation-name: tada;
+}
