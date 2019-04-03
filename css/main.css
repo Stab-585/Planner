@@ -83,22 +83,12 @@ nav a {
 	padding-top: 20px;
 }
 
-.home:hover {
-	color: #00805A;
-}
 
-.dairy:hover {
-	color: #00805A;
-}
-
-.planner:hover {
-	color: #00805A;
-}
-
-.main:hover {
-	color: #00805A;
-}
 
 .button:hover {
     animation-name: tada;
+}
+
+a:hover {
+	color: #00805A;
 }
