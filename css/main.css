@@ -83,10 +83,10 @@ nav a {
 	padding-top: 20px;
 }
 
-
-
 .button:hover {
     animation-name: tada;
+    color:initial;
+    color: #fff;
 }
 
 a:hover {
